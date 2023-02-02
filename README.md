@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dmheidt
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Cousera MEta Frone End developer
+- 🌱 I’m currently learning Cousera Meta Frone End developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dmheidt@hotmail.com
 
